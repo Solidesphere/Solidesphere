@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solidesphere" alt="solidesphere" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/spheresolide" target="blank"><img src="https://img.shields.io/twitter/follow/spheresolide?logo=twitter&style=for-the-badge" alt="https://twitter.com/spheresolide" /></a> </p>
-
 - 🌱 I’m currently learning **php, Laravel**
 
 - 👨‍💻 All of my projects are available at [https://solidesphere.github.io/](https://solidesphere.github.io/)
