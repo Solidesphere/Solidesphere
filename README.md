@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohamed Amine Kahil</h1>
-<h3 align="center">A passionate Full STACK Developer || Software Engineer</h3>
+<h3 align="center">A passionate Software Engineer || Full STACK Developer</h3>
 
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solidesphere" alt="solidesphere" /></a> </p>
 
-- 🌱 I’m currently learning **php, Laravel**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://solidesphere.github.io/](https://solidesphere.github.io/)
 
